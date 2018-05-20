@@ -81,7 +81,7 @@ body {
     border-bottom: 2px solid #ccc;
 }
 /* Style profile picture */
-.Andrew {
+#Andrew {
     float:left;
     width:170px;
     padding-right:15px;
