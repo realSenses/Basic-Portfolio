@@ -93,6 +93,7 @@ body {
     width:930px;
     margin:0 auto;
     padding:30px;
+    overflow: scroll;
 }
 
 /* Style paragraphs */
